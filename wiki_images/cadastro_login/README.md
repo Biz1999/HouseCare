@@ -1,1 +1,1 @@
-This folder contain images for the cadastro/login prototype
+This folder contains images for the cadastro/login prototype
